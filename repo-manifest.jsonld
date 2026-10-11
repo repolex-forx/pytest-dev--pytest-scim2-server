@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-scim2-server/commit/0aad249a5609bbeab4c30f42b9709e3b35345c3b",
       "git:hexsha": "0aad249a5609bbeab4c30f42b9709e3b35345c3b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-scim2-server/commit/b20a27a738d4f6852faad851b00d529ef9d561f4",
