@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "pytest-dev",
+  "repo": "pytest-scim2-server",
+  "versions": [
+    {
+      "commit": "0aad249a5609bbeab4c30f42b9709e3b35345c3b",
+      "parsed_at": "2026-10-11T02:15:00.271561+00:00",
+      "filetree": "filetree/0aad249a5609bbeab4c30f42b9709e3b35345c3b.nq.gz",
+      "blobs": [
+        "blob/57a758b72d5ca49f7f6975a9500356a94d458def.nq.gz",
+        "blob/a40e9a1e02226009014dc95c89f9c9455d866d57.nq.gz",
+        "blob/2d83771d2f8ed3b479b708ed7a52039581048feb.nq.gz",
+        "blob/24ee5b1be9961e38a503c8e764b7385dbb6ba124.nq.gz",
+        "blob/498f590baa9b39779fb667e209ac2121f124e386.nq.gz",
+        "blob/c6481d5f740462ec9fd3edcb32aa56806e316c77.nq.gz",
+        "blob/39d721e79baf67be9dac0b76ff0ce96b7f26132e.nq.gz",
+        "blob/390ae0d44349f19f1eecd6570ffdb61e438fd39f.nq.gz",
+        "blob/c725d1e338031214b52dcb1220f76e32519adf65.nq.gz",
+        "blob/15201acc113da01edf6fa2fb2708b2e9076b6bc5.nq.gz",
+        "blob/d13481fff83b004b9e1937e29f9d3528bc4d2121.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/71fbeb3a882b3317aede3538815c51ca91647243.nq.gz",
+        "blob/584651d28e9a542f6db823810ae1ec188f986634.nq.gz",
+        "blob/c83bf0d75e5b65157a802c12ca68f654a9351194.nq.gz",
+        "blob/cf30ec1e3431a0c9251591a7a312653967b7ca70.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
